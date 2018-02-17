@@ -1,0 +1,14 @@
+{
+  "firstName": "Yujiao",
+  "lastName": "Cai",
+  "nickName": "Rainie",
+  "privateName": false,
+  "picture": "images/Yujiao_Cai.jpg",
+  "privatePicture": false,
+  "email": "jiaojiaosakura@gmail.com",
+  "privateEmail": false,
+  "github": "jiaojiaosakura",
+  "privateGithub": false,
+  "superpower" : "able to master a musical instrument within few days",
+  "academicinterests": "East Asian Studies, Music"
+}
